@@ -1,0 +1,10 @@
+v 1.0.0
+d 'SUMSCALE': Generating summated scales
+d 
+d Stata module to generate summated scales
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F sumscale.ado
+F sumscale.sthlp
